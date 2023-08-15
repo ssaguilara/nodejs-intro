@@ -1,0 +1,18 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-index.js",
+  "type": "module",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cowsay": "^1.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "divaca": "cowsay hello word"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
